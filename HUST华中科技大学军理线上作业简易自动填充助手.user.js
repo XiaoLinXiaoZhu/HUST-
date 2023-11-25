@@ -6,7 +6,7 @@
 // @author       XLXZ
 // @match        http://bookcenter.hustp.com/exercises/detail/*.html
 // @grant        none
-// @require      https://lib.baomitu.com/jquery/3.6.0/jquery.min.js
+// @require      
 // @license MIT
 // ==/UserScript==
 
